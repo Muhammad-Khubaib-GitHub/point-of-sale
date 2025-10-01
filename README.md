@@ -102,7 +102,7 @@ For more details, check out the [hardevine/shoppingcart documentation](https://p
 
 
 
-## Set up NGROK for Remote Access 
+## Set up Ngrok for Remote Access `( Optional )`
 
 #### 1. Install 
 Download zipfile for windows and extract and execute it. 
